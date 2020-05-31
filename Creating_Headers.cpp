@@ -1,10 +1,7 @@
 #include <iostream>
+#include "Header1.h" //including the header created
 using namespace std;
 
-//defining a fuction
-void greeting(){
-	cout<<"Hello"<<endl;
-}
 
 int main(){
 	greeting();
